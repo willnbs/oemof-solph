@@ -59,7 +59,7 @@
 oemof.solph
 ===========
 
-**A model generator for energy system modelling and optimisation (LP/MILP)**
+**A model generator for energy system modelling and optimisation (LP/MILP) + ATES **
 
 .. contents::
     :depth: 2
